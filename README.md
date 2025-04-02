@@ -1,2 +1,0 @@
-# makos-tracker
-makos-tracker
